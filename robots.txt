@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://robbrainrot2.github.io/sitemap.xml
